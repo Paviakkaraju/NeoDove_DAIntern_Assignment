@@ -28,10 +28,10 @@ No of orgs enabled permission, Average no of calls made, No of orgs disabled per
 4. Find out the number of active orgs that have enabled or disabled each of the app settings listed in the Org 
 Table.
 *Expected Output*:
-app_setting,                next_followup_mandatory,   enable_automatic_dialling   
-view_leads_of_other_users   
-automatically_dial_after_sec   
-display_start_calling_button   
-no of orgs enabled 
-no of orgs disabled 
-display_contact_number_on_lead 
+app_setting (view_leads_of_other_users, automatically_dial_after_sec, display_start_calling_button, next_followup_mandatory,   enable_automatic_dialling,
+display_contact_number_on_lead ), no of orgs enabled,  no of orgs disabled
+   
+   
+ 
+ 
+
